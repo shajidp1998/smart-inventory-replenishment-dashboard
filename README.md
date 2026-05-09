@@ -252,7 +252,7 @@ Possible improvements include:
 
 ## Live Dashboard
 
-Live dashboard link will be added after deployment.
+[View the live dashboard](https://smart-inventory-replenishment-dashboard.streamlit.app/)
 
 ## Author
 
